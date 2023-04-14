@@ -1,0 +1,18 @@
+
+
+
+.btn {
+	/* height: 50px;
+	width: 150px; */
+	border-radius: 0px !important;
+	/* padding: 0px; */
+}
+
+.outline-custom,
+.outline-custom:hover,
+.outline-custom:active,
+.outline-custom:focus {
+	background-color: white;
+	color: black;
+	box-shadow:  0 0 0 1px gray;
+}
